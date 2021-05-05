@@ -1,0 +1,15 @@
+.bad{ /*Mensaje de error de autenticacion */
+    color: #6F4C3F;
+    position: absolute;
+    float: left;
+    top: 24%;
+    right:35%;
+    background-color: #F8D4C5;
+    padding: 5px 50px;
+    border-radius:5px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+   
+}
+
+
